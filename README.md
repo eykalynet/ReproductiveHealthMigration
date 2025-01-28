@@ -1,6 +1,6 @@
 This repository contains a web scraping script developed as part of a research effort with Professors Caroline Theoharides (Amherst College) and Susan Godlonton (Williams College). The project focuses on mapping the development of reproductive health behaviors and local government policies in the Philippines.
 
-Due to the fragmented digital infrastructure in the Philippines, where there is no centralized repository for ordinances and policies, our initial methodology involves gathering and analyzing news articles to build a foundational dataset. This approach helps us understand policy developments, regional variations, and their implications for reproductive health and migration patterns.
+Due to the fragmented digital infrastructure in the Philippines, where there is no centralized repository for ordinances and policies, our initial methodology involves gathering and analyzing news articles to build a foundational dataset.
 
 ## Current Workflow
 1. **Challenge**: Lack of centralized resources in the Philippines for accessing government ordinances and policies. Reliance on news articles as an alternative source to track policy developments.
